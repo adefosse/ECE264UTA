@@ -1,0 +1,10 @@
+<Library>
+    <Book>
+        <TITLE>Brave New World</TITLE>
+        <AUTHOR>Aldous Huxley</AUTHOR>
+    </Book>
+    <Book>
+        <Title>Fahrenheit 451</Title>
+        <Author>Ray Bradbury</Author>
+    </Book>
+</Library>

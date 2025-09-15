@@ -1,0 +1,10 @@
+<collection>
+    <item type="book">
+        <title><b>Pride and Prejudice</b></title>
+        <author>Jane Austen</author>
+    </item>
+    <item type="book">
+        <title><i>Moby Dick</i></title>
+        <author>Herman Melville</author>
+    </item>
+</collection>

@@ -1,0 +1,17 @@
+<books>
+    <novel>
+        <title>Animal Farm</title>
+        <writer>George Orwell</writer>
+        <published>1945</published>
+    </novel>
+    <novel>
+        <title>Brave New World</title>
+        <writer>Aldous Huxley</writer>
+        <published>1932</published>
+    </novel>
+    <novel>
+        <title>Fahrenheit 451</title>
+        <writer>Ray Bradbury</writer>
+        <published>1953</published>
+    </novel>
+</books>

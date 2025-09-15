@@ -1,0 +1,10 @@
+<library>
+    <book>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+    </book>
+    <book>
+        <author>Harper Lee</author>
+        <year>1960</year>
+    </book>
+</library>
